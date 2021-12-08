@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -21,7 +24,9 @@
   <component name="ChangeListManager">
     <list default="true" id="5366f415-bdbc-4f6e-9a06-081a1c1ec0fd" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/question/show.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/question/show.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Controller/QuestionController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/QuestionController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Repository/QuestionRepository.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Repository/QuestionRepository.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/question/homepage.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/question/homepage.html.twig" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -131,6 +136,8 @@
       <path value="$PROJECT_DIR$/vendor/doctrine/sql-formatter" />
       <path value="$PROJECT_DIR$/vendor/doctrine/cache" />
       <path value="$PROJECT_DIR$/vendor/friendsofphp/proxy-manager-lts" />
+      <path value="$PROJECT_DIR$/vendor/knplabs/knp-time-bundle" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation" />
     </include_path>
   </component>
   <component name="ProjectId" id="21pKqlEJXsO2kfGTT3IoDEvVsyo" />
@@ -156,7 +163,8 @@
       <workItem from="1638778484186" duration="4773000" />
       <workItem from="1638852309637" duration="1869000" />
       <workItem from="1638858378085" duration="5770000" />
-      <workItem from="1638889492727" duration="6887000" />
+      <workItem from="1638889492727" duration="7720000" />
+      <workItem from="1638947721420" duration="2898000" />
     </task>
     <servers />
   </component>
@@ -188,5 +196,9 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="425" y="189" key="run.anything.popup/0.0.1536.834@0.0.1536.834" timestamp="1638852340245" />
+    <state x="143" y="233" width="672" height="678" key="search.everywhere.popup" timestamp="1638969384025">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="143" y="233" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050/1920.0.1280.690/3200.0.1280.690/4480.0.1280.690@0.0.1920.1050" timestamp="1638969384025" />
   </component>
 </project>
